@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 LeetCode.iml
-src/main/resources/
+src/main/resources/git rm -r --cached .
+
 src/test/
 target/
